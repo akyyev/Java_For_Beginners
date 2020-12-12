@@ -1,4 +1,4 @@
-package Beginner.day19_ForLopp;
+package Beginner.day19_ForLoop;
 
 public class Tasks {
 	
